@@ -1,2 +1,3 @@
 rocks-5.?
-Lua
+/.luarocks/config-*.lua
+/.luarocks/default-lua-version.lua
