@@ -9,6 +9,7 @@ dependencies = {
 
    "inspect >= 3.1.3",
    "dkjson >= 2.8-2",
+   "lua-cjson >= 2.1.0.10-1",
 }
 build = {
    type = "none",
