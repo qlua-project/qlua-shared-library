@@ -11,6 +11,7 @@ dependencies = {
    "dkjson >= 2.8-2",
    "lpeg >= 1.1.0-2",
    "lua-cjson >= 2.1.0.10-1",
+   "luasocket >= 3.1.0-1",
 }
 build = {
    type = "none",
