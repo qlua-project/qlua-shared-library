@@ -1,3 +1,4 @@
-rocks-5.?
+lua_modules/**/rocks-5.?
+lua_modules/bin
 /.luarocks/config-*.lua
 /.luarocks/default-lua-version.lua
